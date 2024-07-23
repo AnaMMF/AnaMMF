@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔎 I'm lokking forward to do and internship.
+- 🔎 I'm looking forward to do and internship.
 - 🔭 I’m currently working on improving my knowledge of web development.
 - 🌱 I’m currently learning tailwind, laravel.
 - 🤔 I’m looking for help with everything. 
